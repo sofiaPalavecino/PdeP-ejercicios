@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "paradigma-funcional:lib"
+
+    - path: "./test"
+      component: "paradigma-funcional:test:paradigma-funcional-test"
